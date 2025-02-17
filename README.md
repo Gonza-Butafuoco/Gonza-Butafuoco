@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Gonza-Butafuoco/Gonza-Butafuoco/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Gonza-Butafuoco/Gonza-Butafuoco/main/snake.svg" alt="Snake animation" />
 
 ###
