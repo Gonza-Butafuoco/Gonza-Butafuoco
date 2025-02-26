@@ -1,4 +1,4 @@
-<h1 align="left">Hi ! My name is Gonzalo Butafuoco and I'm a Software Engineer, from Argentina :argentina:</h1>
+<h1 align="left">Hi ! My name is Gonzalo Butafuoco and I'm a Software Developer, from Argentina :argentina:</h1>
 
 ###
 
